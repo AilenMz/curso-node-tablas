@@ -9,6 +9,7 @@ const argv = require("yargs")
     alias: "listar",
     type: "boolean",
     default: false,
+    describe: "Es la opción para mostrar o no en consola la tabla"
   })
   .option("h", {
     alias: "hasta",
