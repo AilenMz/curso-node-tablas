@@ -25,7 +25,7 @@ npm i
 
 ### Ejemplos
 
-[] node app -b 10 (node app --base 10 )
+[][][] node app -b 10 (node app --base 10 )
 
 ```
 tabla-10.txt  creada
@@ -33,7 +33,7 @@ tabla-10.txt  creada
 
 En la carpeta "Salida", verá el archivo creado con la tabla del 10 con limite 10 (valor por default)
 
-[] node app -b 8 -l (node app --base 8 --listar)
+[][][] node app -b 8 -l (node app --base 8 --listar)
 
 ```
 ==================
@@ -55,7 +55,7 @@ tabla-8.txt  creada
 
 En la carpeta "Salida", verá el archivo creado con la tabla del 8 con limite 10 (valor por default) y por consola se imprimirá tambien la tabla
 
-[] node app -b 5 -l -h 20 (node app --base 8 --listar --hasta 20)
+[][][] node app -b 5 -l -h 20 (node app --base 8 --listar --hasta 20)
 
 ```
 ==================
